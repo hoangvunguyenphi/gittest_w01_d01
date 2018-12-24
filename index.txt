@@ -1,0 +1,4 @@
+so a = 1;
+so b = 2;
+Tong 2 so: <%=cong(1,2)%>
+Hieu 2 so: <%tru(1,2)%>
